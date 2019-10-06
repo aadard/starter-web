@@ -9,3 +9,6 @@ Local staged change not yet commited
 
 # LOCAL
 Purely local not yet staged
+
+# COPYRIGHT
+Do not copy this..evah!
