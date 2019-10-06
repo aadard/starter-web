@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Ab Ad> -- <Wizard> -- <@wiz>
 
 # THANKS
 
