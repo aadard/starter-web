@@ -12,3 +12,6 @@ Purely local not yet staged
 
 # COPYRIGHT
 Do not copy this..evah!
+
+# CONTRIBUTE
+Do all the work!
